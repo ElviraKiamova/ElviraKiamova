@@ -9,7 +9,7 @@
 ![SOLID](https://img.shields.io/badge/SOLID-03A9F4?style=for-the-badge&logo=c#&logoColor=white)
 ![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c#&logoColor=black)
 ![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
-![BEM](https://img.shields.io/badge/BEM-FFC107?style=for-the-badge&logo=css3&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=css3&logoColor=white)
 
 # **Projects**
 
@@ -86,6 +86,8 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://elvirakiamova.github.io/study/
 - PixelPerfect, BEM
+
+
 
 
 # **Courses**
