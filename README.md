@@ -24,6 +24,7 @@ ___
 - Favicon, carousel, popup, filter
 - Responsive design, PixelPerfect, BEM
 
+
 ___
 ## [Kekstagram]()
 [<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://drive.google.com/file/d/1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L/view?usp=sharing)
@@ -33,13 +34,23 @@ ___
 - Favicon, popup, filter
 - AJAX, form validation
 
+
 ___
 ## [Vocation]()
 [<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="Traveling in Russia" width="500">](https://drive.google.com/file/d/16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur/view?usp=sharing)
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://elvirakiamova.github.io/Traveling-is-a-vocation/
 - AJAX, form validation, popup
+
+
+___
+## [Brooklyn Public Library]()
+[<img src="https://drive.google.com/uc?id=1RhI5knA82D5k-SXF6fkUzxOGbIPJmwq7" alt="Brooklyn Public Library" width="500">](https://drive.google.com/file/d/1RhI5knA82D5k-SXF6fkUzxOGbIPJmwq7/view?usp=sharing)
+
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2023Q2/
+- Favicon, responsive design, PixelPerfect, BEM
