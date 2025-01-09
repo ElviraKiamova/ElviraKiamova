@@ -85,3 +85,9 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://elvirakiamova.github.io/study/
 - PixelPerfect, BEM
+
+
+# **Courses**
+[<img src="https://example.com/ваше_изображение.png" alt="certificate from the HTML Academy">](https://elvirakiamova.github.io/rsschool-cv/#education)
+
+
