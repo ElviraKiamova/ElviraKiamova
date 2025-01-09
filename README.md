@@ -9,7 +9,7 @@
 ![SOLID](https://img.shields.io/badge/SOLID-03A9F4?style=for-the-badge&logo=c#&logoColor=white)
 ![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c#&logoColor=black)
 ![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
-![BEM](https://img.shields.io/badge/BEM-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-FFC107?style=for-the-badge&logo=css3&logoColor=white)
 
 # **Projects**
 
@@ -19,7 +19,7 @@ ___
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-03A9F4?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html
 - Favicon, carousel, popup, filter
 - Responsive design, PixelPerfect, BEM
@@ -32,3 +32,14 @@ ___
 - https://elvirakiamova.github.io/1048521-kekstagram-32/
 - Favicon, popup, filter
 - AJAX, form validation
+
+___
+## [Vocation]()
+[<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="Traveling in Russia" width="500">](https://drive.google.com/file/d/16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur/view?usp=sharing)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://elvirakiamova.github.io/Traveling-is-a-vocation/
+- AJAX, form validation, popup
