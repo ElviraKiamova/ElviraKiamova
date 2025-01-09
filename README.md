@@ -1,9 +1,25 @@
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-f3de61?style=for-the-badge&labelColor=20232a&logo=javascript&logoColor=f3de61)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-553d7d?style=for-the-badge&labelColor=20232a&logo=css3&logoColor=553d7d)](#) 
-[![HTML Badge](https://img.shields.io/badge/-HTML-e24c25?style=for-the-badge&labelColor=20232a&logo=html5&logoColor=e24c25)](#) 
-[![Webpack Badge](https://img.shields.io/badge/-Webpack-1c1f23?style=for-the-badge&labelColor=20232a&logo=webpack&logoColor=5FA04E)](#)
-[![Git Bash Badge](https://img.shields.io/badge/-Git%20Bash-f14e32?style=for-the-badge&labelColor=20232a&logo=git&logoColor=61DAFB)](#)
-[![VSCode Badge](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&labelColor=20232a&logo=visualstudiocode&logoColor=3077c4)](#)
-[![Figma Badge](https://img.shields.io/badge/-Figma-f24e1e?style=for-the-badge&labelColor=20232a&logo=figma&logoColor=ffa500)](#)
-[![npm Badge](https://img.shields.io/badge/-npm-cc353f?style=for-the-badge&labelColor=20232a&logo=npm&logoColor=cc353f)](#)
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-03A9F4?style=for-the-badge&logo=html5&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-E74C3C?style=for-the-badge&logo=npm&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-7D7D7D?style=for-the-badge&logo=java&logoColor=white)
+![GitBash](https://img.shields.io/badge/GitBash-6F2C91?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4BCA81?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-FF5722?style=for-the-badge&logo=c#&logoColor=white)
+![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c#&logoColor=black)
+![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
+![BEM](https://img.shields.io/badge/BEM-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## [Christmas shop]()
+[<img src="https://drive.google.com/uc?id=1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25">](https://drive.google.com/file/d/1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25/view?usp=drive_link)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-03A9F4?style=for-the-badge&logo=html5&logoColor=white)
+- https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html
+- Favicon, carousel, popup, filter
+- Responsive design, PixelPerfect, BEM
