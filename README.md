@@ -15,7 +15,8 @@
 
 ___
 ## [Christmas shop]()
-[<img src="https://drive.google.com/uc?id=1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25" alt="Christmas shop" width="500">](https://drive.google.com/file/d/1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25/view?usp=drive_link)
+[<img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">](https://drive.google.com/file/d/1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt/view?usp=sharing)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,6 +89,6 @@ ___
 
 
 # **Courses**
-[<img src="https://example.com/ваше_изображение.png" alt="certificate from the HTML Academy">](https://elvirakiamova.github.io/rsschool-cv/#education)
+[<img src="https://drive.google.com/uc?id=1X6w4Y-XNGj4q9WEnZZy9bTMzIR16cwU0" alt="certificate from the HTML Academy">](https://drive.google.com/file/d/1X6w4Y-XNGj4q9WEnZZy9bTMzIR16cwU0/view?usp=sharing)
 
 
