@@ -11,11 +11,11 @@
 ![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
 ![BEM](https://img.shields.io/badge/BEM-4CAF50?style=for-the-badge&logo=css3&logoColor=white)
 
-#**Projects**
+# **Projects**
 
 ___
 ## [Christmas shop]()
-[<img src="https://drive.google.com/uc?id=1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25">](https://drive.google.com/file/d/1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25/view?usp=drive_link)
+[<img src="https://drive.google.com/uc?id=1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25" alt="Christmas shop" width="500">](https://drive.google.com/file/d/1Q4MYVQgfZFyq0_yG0Or_jhWlS8BgzI25/view?usp=drive_link)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +26,7 @@ ___
 
 ___
 ## [Kekstagram]()
-[<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="Description" width="300">](https://drive.google.com/file/d/1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://drive.google.com/file/d/1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L/view?usp=sharing)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 - https://elvirakiamova.github.io/1048521-kekstagram-32/
