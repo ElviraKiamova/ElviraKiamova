@@ -32,18 +32,18 @@ ___
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 - https://elvirakiamova.github.io/1048521-kekstagram-32/
 - Favicon, popup, filter
-- AJAX, form validation
+- AJAX, form validation, BEM
 
 
 ___
 ## [Vocation]()
-[<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="Traveling in Russia" width="500">](https://drive.google.com/file/d/16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="The project allows you to add pictures of picturesque places in Russia with a description and a like." width="500">](https://drive.google.com/file/d/16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur/view?usp=sharing)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://elvirakiamova.github.io/Traveling-is-a-vocation/
-- AJAX, form validation, popup
+- AJAX, form validation, popup, BEM
 
 
 ___
@@ -54,3 +54,34 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2023Q2/
 - Favicon, responsive design, PixelPerfect, BEM
+
+
+___
+## [Travel]()
+[<img src="https://drive.google.com/uc?id=1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q" alt="Traveling in Russia" width="500">](https://drive.google.com/file/d/1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q/view?usp=sharing)
+
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://elvirakiamova.github.io/travel/
+- Responsive design, PixelPerfect, BEM
+
+
+___
+## [Plants]()
+[<img src="https://drive.google.com/uc?id=1TlHYayBHKpbZMTTof3Tsz-uhDp-Mojrg" alt="Plants - website with tips on growing and caring for plants in the garden" width="500">](https://drive.google.com/file/d/1TlHYayBHKpbZMTTof3Tsz-uhDp-Mojrg/view?usp=sharing)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2022Q4/
+- Favicon, responsive design, PixelPerfect, BEM, popup, filter
+
+
+___
+## [Study]()
+[<img src="https://drive.google.com/uc?id=1Y82pqoVVQ-GZMF1UczN1fEY2ou5kJe5F" alt="Learn to learn" width="500">](https://drive.google.com/file/d/1Y82pqoVVQ-GZMF1UczN1fEY2ou5kJe5F/view?usp=sharing)
+
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://elvirakiamova.github.io/study/
+- PixelPerfect, BEM
