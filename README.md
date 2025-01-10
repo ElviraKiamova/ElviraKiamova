@@ -31,6 +31,7 @@ ___
 [<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://drive.google.com/file/d/1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L/view?usp=sharing)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
 - https://elvirakiamova.github.io/1048521-kekstagram-32/
 - Favicon, popup, filter
 - AJAX, form validation, BEM
