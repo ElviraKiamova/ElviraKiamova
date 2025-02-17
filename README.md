@@ -15,7 +15,7 @@
 
 ___
 ## [Christmas shop]()
-[<img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">](https://drive.google.com/file/d/1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
@@ -28,7 +28,7 @@ ___
 
 ___
 ## [Kekstagram]()
-[<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://drive.google.com/file/d/1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://elvirakiamova.github.io/1048521-kekstagram-32/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
@@ -39,7 +39,7 @@ ___
 
 ___
 ## [Vocation]()
-[<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="The project allows you to add pictures of picturesque places in Russia with a description and a like." width="500">](https://drive.google.com/file/d/16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=16dRGk3s9jMAj-91ll23RCCMiNDkDc6ur" alt="The project allows you to add pictures of picturesque places in Russia with a description and a like." width="500">](https://elvirakiamova.github.io/Traveling-is-a-vocation/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +50,7 @@ ___
 
 ___
 ## [Brooklyn Public Library]()
-[<img src="https://drive.google.com/uc?id=1RhI5knA82D5k-SXF6fkUzxOGbIPJmwq7" alt="Brooklyn Public Library" width="500">](https://drive.google.com/file/d/1RhI5knA82D5k-SXF6fkUzxOGbIPJmwq7/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1RhI5knA82D5k-SXF6fkUzxOGbIPJmwq7" alt="Brooklyn Public Library" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2023Q2/)
 
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,7 +60,7 @@ ___
 
 ___
 ## [Travel]()
-[<img src="https://drive.google.com/uc?id=1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q" alt="Traveling in Russia" width="500">](https://drive.google.com/file/d/1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q" alt="Traveling in Russia" width="500">](https://elvirakiamova.github.io/travel/)
 
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
@@ -70,7 +70,7 @@ ___
 
 ___
 ## [Plants]()
-[<img src="https://drive.google.com/uc?id=1TlHYayBHKpbZMTTof3Tsz-uhDp-Mojrg" alt="Plants - website with tips on growing and caring for plants in the garden" width="500">](https://drive.google.com/file/d/1TlHYayBHKpbZMTTof3Tsz-uhDp-Mojrg/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1TlHYayBHKpbZMTTof3Tsz-uhDp-Mojrg" alt="Plants - website with tips on growing and caring for plants in the garden" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2022Q4/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +81,7 @@ ___
 
 ___
 ## [Study]()
-[<img src="https://drive.google.com/uc?id=1Y82pqoVVQ-GZMF1UczN1fEY2ou5kJe5F" alt="Learn to learn" width="500">](https://drive.google.com/file/d/1Y82pqoVVQ-GZMF1UczN1fEY2ou5kJe5F/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1Y82pqoVVQ-GZMF1UczN1fEY2ou5kJe5F" alt="Learn to learn" width="500">](https://elvirakiamova.github.io/study/)
 
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,6 +92,6 @@ ___
 
 
 # **Courses**
-[<img src="https://drive.google.com/uc?id=1X6w4Y-XNGj4q9WEnZZy9bTMzIR16cwU0" alt="certificate from the HTML Academy">](https://drive.google.com/file/d/1X6w4Y-XNGj4q9WEnZZy9bTMzIR16cwU0/view?usp=sharing)
+[<img src="https://drive.google.com/uc?id=1X6w4Y-XNGj4q9WEnZZy9bTMzIR16cwU0" alt="certificate from the HTML Academy">](https://assets.htmlacademy.ru/certificates/intensive/573/1048521.pdf?1724261383)
 
 
