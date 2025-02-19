@@ -15,11 +15,7 @@
 
 ___
 ## [Christmas shop]()
-
-
-<a href="https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">
-</a>
+[<img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
