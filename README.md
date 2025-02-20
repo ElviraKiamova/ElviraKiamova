@@ -59,6 +59,18 @@ ___
 
 
 ___
+## [The Hampton hotel - test assignment for the company "Ti", home page]()
+[<img src="https://github.com/user-attachments/assets/f568ae6f-5892-46f7-bb15-b10e92074b10" alt="Hampton hotel" width="500">](https://elvirakiamova.github.io/Hampton/)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
+- [https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html](https://elvirakiamova.github.io/Hampton/)
+- Responsive design, PixelPerfect, BEM
+
+
+___
 ## [Travel]()
 [<img src="https://drive.google.com/uc?id=1QL9hQtZrErQwoahXTERUxvzuaPE-Rs4Q" alt="Traveling in Russia" width="500">](https://elvirakiamova.github.io/travel/)
 
