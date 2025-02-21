@@ -10,6 +10,7 @@
 ![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c#&logoColor=black)
 ![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 # **Projects**
 
