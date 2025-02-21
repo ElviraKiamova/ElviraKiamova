@@ -67,6 +67,7 @@ ___
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 - [https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html](https://elvirakiamova.github.io/Hampton/)
 - Responsive design, PixelPerfect, BEM
 
