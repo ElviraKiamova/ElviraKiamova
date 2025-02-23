@@ -18,7 +18,6 @@ ___
 ## [Christmas shop]()
 [<img src="https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt" alt="Christmas shop" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFE2024Q4/christmas-shop/index.html)
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,6 +46,17 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://elvirakiamova.github.io/Traveling-is-a-vocation/
 - AJAX, form validation, popup, BEM
+
+
+___
+## [Shelter]()
+[<img src="https://github.com/user-attachments/assets/26948d01-a0a2-45ab-b719-7ba4eed61e07" alt="Shelter" width="500">](https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2024Q2/shelter/index.html)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2024Q2/shelter/index.html
+- Favicon, carousel, popup, Responsive design, PixelPerfect, BEM
 
 
 ___
