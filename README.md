@@ -26,6 +26,8 @@ ___
 - Responsive design, PixelPerfect, BEM
 
 
+
+
 ___
 ## [Kekstagram]()
 [<img src="https://drive.google.com/uc?id=1o5T3gw6Cx1xYu8tR7-FoVVpXdE2aKP1L" alt="The Kextagram project is an image viewing service. Users are given the opportunity to upload their photos or view photos uploaded earlier by other users." width="500">](https://elvirakiamova.github.io/1048521-kekstagram-32/)
@@ -57,6 +59,22 @@ ___
 ![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
 - https://rolling-scopes-school.github.io/elvirakiamova-JSFEPRESCHOOL2024Q2/shelter/index.html
 - Favicon, carousel, popup, Responsive design, PixelPerfect, BEM
+
+
+___
+## [Ingolf]()
+[<img src="[https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt](https://github.com/user-attachments/assets/dffb1ef4-8d8e-48c0-aa83-e9338d942558)" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Switch JS](https://img.shields.io/badge/Switch_JS-4CAF50?style=for-the-badge&logo=javascript&logoColor=white) 
+![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white) *(библиотека Fancybox)*
+- https://elvirakiamova.github.io/Ingolf/
+- MODX, Gulp, Switch, Fancybox
+- Responsive design, PixelPerfect, BEM
 
 
 ___
