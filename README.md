@@ -63,7 +63,7 @@ ___
 
 ___
 ## [Ingolf]()
-[<img src="[https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt](https://github.com/user-attachments/assets/dffb1ef4-8d8e-48c0-aa83-e9338d942558)" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
+[<img src="[https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt](https://github.com/user-attachments/assets/dffb1ef4-8d8e-48c0-aa83-e9338d942558" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,7 +71,7 @@ ___
 ![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Switch JS](https://img.shields.io/badge/Switch_JS-4CAF50?style=for-the-badge&logo=javascript&logoColor=white) 
-![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white) *(библиотека Fancybox)*
+![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white)
 - https://elvirakiamova.github.io/Ingolf/
 - MODX, Gulp, Switch, Fancybox
 - Responsive design, PixelPerfect, BEM
