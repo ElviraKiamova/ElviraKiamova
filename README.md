@@ -2,15 +2,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4BCA81?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/npm-E74C3C?style=for-the-badge&logo=npm&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-7D7D7D?style=for-the-badge&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FFC107?style=for-the-badge&logo=figma&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-03A9F4?style=for-the-badge&logo=c#&logoColor=white)
-![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c#&logoColor=black)
-![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c#&logoColor=black)
+![SOLID](https://img.shields.io/badge/SOLID-03A9F4?style=for-the-badge&logo=c%23&logoColor=white)
+![DRY](https://img.shields.io/badge/DRY-FFEB3B?style=for-the-badge&logo=c%23&logoColor=black)
+![KISS](https://img.shields.io/badge/KISS-76FF03?style=for-the-badge&logo=c%23&logoColor=black)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Switch JS](https://img.shields.io/badge/Switch_JS-388E3C?style=for-the-badge&logo=javascript&logoColor=white)
+![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-1976D2?style=for-the-badge&logo=javascript&logoColor=white)
 
 # **Projects**
 
