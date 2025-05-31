@@ -63,7 +63,7 @@ ___
 
 ___
 ## [Ingolf]()
-[<img src="[https://drive.google.com/uc?id=1CjjJnuP7Q1IGE-RIi66yNukwtasvU3Wt](https://github.com/user-attachments/assets/dffb1ef4-8d8e-48c0-aa83-e9338d942558" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
+[<img src="https://github.com/user-attachments/assets/71e266ed-cbf3-47d4-b9d8-d9567f7dc7dc" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
