@@ -15,6 +15,7 @@
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Switch JS](https://img.shields.io/badge/Switch_JS-388E3C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-1976D2?style=for-the-badge&logo=javascript&logoColor=white)
+![Beget](https://img.shields.io/badge/Beget-4CAF50?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 # **Projects**
 
@@ -76,6 +77,7 @@ ___
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Switch JS](https://img.shields.io/badge/Switch_JS-4CAF50?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white)
+![Beget](https://img.shields.io/badge/Beget-4CAF50?style=for-the-badge&logo=google-cloud&logoColor=white)
 - https://elvirakiamova.github.io/Ingolf/
 - MODX, Gulp, Switch, Fancybox
 - Responsive design, PixelPerfect, BEM
