@@ -68,7 +68,7 @@ ___
 
 ___
 ## [Ingolf]()
-[<img src="https://github.com/user-attachments/assets/71e266ed-cbf3-47d4-b9d8-d9567f7dc7dc" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Ingolf/)
+[<img src="https://github.com/user-attachments/assets/71e266ed-cbf3-47d4-b9d8-d9567f7dc7dc" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Educational_project/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
@@ -78,7 +78,7 @@ ___
 ![Switch JS](https://img.shields.io/badge/Switch_JS-4CAF50?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white)
 ![Beget](https://img.shields.io/badge/Beget-4CAF50?style=for-the-badge&logo=google-cloud&logoColor=white)
-- https://elvirakiamova.github.io/Ingolf/
+- https://elvirakiamova.github.io/Educational_project/
 - MODX, Gulp, Switch, Fancybox
 - Responsive design, PixelPerfect, BEM
 
