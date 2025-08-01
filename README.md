@@ -67,6 +67,17 @@ ___
 
 
 ___
+## [Todo-list]()
+<img src="https://github.com/user-attachments/assets/1006a8bb-d8c1-4ab0-9c45-858a7391ad9b" alt="Todo-list" width="500">](https://elvirakiamova.github.io/todo-list/)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
+- https://elvirakiamova.github.io/todo-list/
+- PixelPerfect, BEM
+
+
+___
 ## [Ingolf]()
 [<img src="https://github.com/user-attachments/assets/71e266ed-cbf3-47d4-b9d8-d9567f7dc7dc" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Educational_project/)
 
@@ -81,6 +92,7 @@ ___
 - https://elvirakiamova.github.io/Educational_project/
 - MODX, Gulp, Switch, Fancybox
 - Responsive design, PixelPerfect, BEM
+
 
 
 ___
