@@ -68,7 +68,7 @@ ___
 
 ___
 ## [Todo-list]()
-<img src="https://github.com/user-attachments/assets/1006a8bb-d8c1-4ab0-9c45-858a7391ad9b" alt="Todo-list" width="500">](https://elvirakiamova.github.io/todo-list/)
+[<img src="https://github.com/user-attachments/assets/1006a8bb-d8c1-4ab0-9c45-858a7391ad9b" alt="Todo-list" width="500">](https://elvirakiamova.github.io/todo-list/)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
