@@ -77,23 +77,6 @@ ___
 - PixelPerfect, BEM
 
 
-___
-## [Ingolf]()
-[<img src="https://github.com/user-attachments/assets/71e266ed-cbf3-47d4-b9d8-d9567f7dc7dc" alt="Ingolf" width="500">](https://elvirakiamova.github.io/Educational_project/)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-4CAF50?style=for-the-badge&logo=javascript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFC107?style=for-the-badge&logo=html5&logoColor=white)
-![MODX](https://img.shields.io/badge/MODX-102C53?style=for-the-badge&logo=modx&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![Switch JS](https://img.shields.io/badge/Switch_JS-4CAF50?style=for-the-badge&logo=javascript&logoColor=white) 
-![Fancybox JS](https://img.shields.io/badge/Fancybox_JS-3B5998?style=for-the-badge&logo=javascript&logoColor=white)
-![Beget](https://img.shields.io/badge/Beget-4CAF50?style=for-the-badge&logo=google-cloud&logoColor=white)
-- https://elvirakiamova.github.io/Educational_project/
-- MODX, Gulp, Switch, Fancybox
-- Responsive design, PixelPerfect, BEM
-
-
 
 ___
 ## [Brooklyn Public Library]()
